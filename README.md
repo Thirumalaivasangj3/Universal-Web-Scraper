@@ -38,3 +38,7 @@ venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
+
+#To run 
+./venv/bin/python run.py
+
