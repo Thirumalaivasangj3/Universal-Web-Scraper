@@ -1,0 +1,249 @@
+[
+  {
+    "headers": [
+      "S. No",
+      "Item Name",
+      "Quantity",
+      "Unit",
+      "Rate",
+      "Amount"
+    ],
+    "rows": [
+      {
+        "S. No": "1",
+        "Item Name": "Building Approval",
+        "Quantity": "1200",
+        "Unit": "Sq.ft",
+        "Rate": "75",
+        "Amount": "90,000"
+      },
+      {
+        "S. No": "2",
+        "Item Name": "Super build up area",
+        "Quantity": "1500",
+        "Unit": "Sq.ft",
+        "Rate": "1799",
+        "Amount": "26,98,500"
+      },
+      {
+        "S. No": "3",
+        "Item Name": "Sump",
+        "Quantity": "6000",
+        "Unit": "Liters",
+        "Rate": "25",
+        "Amount": "1,50,000"
+      },
+      {
+        "S. No": "4",
+        "Item Name": "Septic tank",
+        "Quantity": "6000",
+        "Unit": "Liters",
+        "Rate": "15",
+        "Amount": "90,000"
+      },
+      {
+        "S. No": "5",
+        "Item Name": "Compound wall",
+        "Quantity": "300",
+        "Unit": "Sq.ft",
+        "Rate": "350",
+        "Amount": "1,05,000"
+      },
+      {
+        "S. No": "6",
+        "Item Name": "Main Gate",
+        "Quantity": "250",
+        "Unit": "Kg",
+        "Rate": "200",
+        "Amount": "50,000"
+      },
+      {
+        "column_0": "Grand Total Amount",
+        "column_1": "31,83,500"
+      }
+    ]
+  },
+  {
+    "headers": [
+      "S. No",
+      "Material category",
+      "Material type"
+    ],
+    "rows": [
+      {
+        "column_0": "Super Structure"
+      },
+      {
+        "S. No": "1",
+        "Material category": "Cement",
+        "Material type": "Ultra tech – 53 grade cements"
+      },
+      {
+        "S. No": "2",
+        "Material category": "Sand",
+        "Material type": "Double wash M – sand"
+      },
+      {
+        "S. No": "3",
+        "Material category": "Steel",
+        "Material type": "ARS – fe 550D"
+      },
+      {
+        "S. No": "4",
+        "Material category": "Bricks",
+        "Material type": "1st class chamber bricks"
+      },
+      {
+        "S. No": "5",
+        "Material category": "Aggregate",
+        "Material type": "20 mm and 40 mm aggregates"
+      }
+    ]
+  },
+  {
+    "headers": [
+      "S. No",
+      "Material category",
+      "Material type"
+    ],
+    "rows": [
+      {
+        "column_0": "Finishing stage"
+      },
+      {
+        "S. No": "6",
+        "Material category": "Electrical",
+        "Material type": "Orbit wiresAnchor Roma switches"
+      },
+      {
+        "S. No": "7",
+        "Material category": "Plumbing",
+        "Material type": "Finolex pipesParryware fittings"
+      },
+      {
+        "S. No": "8",
+        "Material category": "Flooring",
+        "Material type": "Kajaria 2×2 tiles"
+      },
+      {
+        "S. No": "9",
+        "Material category": "Doors",
+        "Material type": "1st teak main doors shutters and frames2nd class teak door frames and panel doors for bedroomsPVC Doors for bathrooms"
+      },
+      {
+        "S. No": "10",
+        "Material category": "Windows",
+        "Material type": "UPVC Sliding windows"
+      },
+      {
+        "S. No": "11",
+        "Material category": "Fabrication",
+        "Material type": "12mm flat and 10mm rod will be used here as per customer design"
+      },
+      {
+        "S. No": "12",
+        "Material category": "Painting",
+        "Material type": "Interior:Two coat of wall puttyOne coat of cement based primerTwo coat of Asian tractor emulsionExterior:One coat of primer with two coat of ACE emulsion."
+      }
+    ]
+  },
+  {
+    "headers": [
+      "S.No",
+      "Description",
+      "1St Quality Material",
+      "Recommended Materials",
+      "Cost Saving Per Sq.ft"
+    ],
+    "rows": [
+      {
+        "S.No": "1",
+        "Description": "Cement",
+        "1St Quality Material": "Ultratech & Coromandel",
+        "Recommended Materials": "Same",
+        "Cost Saving Per Sq.ft": "0"
+      },
+      {
+        "S.No": "2",
+        "Description": "Sand",
+        "1St Quality Material": "River sand",
+        "Recommended Materials": "M.sand",
+        "Cost Saving Per Sq.ft": "160"
+      },
+      {
+        "S.No": "3",
+        "Description": "Steel",
+        "1St Quality Material": "TATA & JSW",
+        "Recommended Materials": "550 D Grade TMT Basrs",
+        "Cost Saving Per Sq.ft": "100"
+      },
+      {
+        "S.No": "4",
+        "Description": "Block works",
+        "1St Quality Material": "Red Bricks",
+        "Recommended Materials": "1st class Chamber bricks",
+        "Cost Saving Per Sq.ft": "0"
+      },
+      {
+        "S.No": "5",
+        "Description": "Aggregate",
+        "1St Quality Material": "20mm & 40mm",
+        "Recommended Materials": "Same",
+        "Cost Saving Per Sq.ft": "0"
+      },
+      {
+        "S.No": "6",
+        "Description": "Electrical wiring & Fittings",
+        "1St Quality Material": "Wires = HeavelsFittings = Crabtree",
+        "Recommended Materials": "Wires = OrbitFittings = Anchor Roma",
+        "Cost Saving Per Sq.ft": "100"
+      },
+      {
+        "S.No": "7",
+        "Description": "Plumbing Lines & Fittings",
+        "1St Quality Material": "Pipes = AstralFittings = Jaguar",
+        "Recommended Materials": "Pipes = FinolexFittings = Parryware",
+        "Cost Saving Per Sq.ft": "100"
+      },
+      {
+        "S.No": "8",
+        "Description": "Windows",
+        "1St Quality Material": "1st class wooden windows",
+        "Recommended Materials": "UPVC Windows",
+        "Cost Saving Per Sq.ft": "100"
+      },
+      {
+        "S.No": "9",
+        "Description": "Doors",
+        "1St Quality Material": "Wooden doors",
+        "Recommended Materials": "Same",
+        "Cost Saving Per Sq.ft": "0"
+      },
+      {
+        "S.No": "10",
+        "Description": "Fabrication",
+        "1St Quality Material": "Mild steel",
+        "Recommended Materials": "Same",
+        "Cost Saving Per Sq.ft": "0"
+      },
+      {
+        "S.No": "11",
+        "Description": "Flooring",
+        "1St Quality Material": "Tiles",
+        "Recommended Materials": "Same",
+        "Cost Saving Per Sq.ft": "0"
+      },
+      {
+        "S.No": "12",
+        "Description": "Painting",
+        "1St Quality Material": "Laminated paints",
+        "Recommended Materials": "Emulsion paints",
+        "Cost Saving Per Sq.ft": "75"
+      },
+      {
+        "column_0": "Total Difference amount",
+        "column_1": "635"
+      }
+    ]
+  }
+]
